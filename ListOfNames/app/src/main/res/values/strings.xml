@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListOfNames</string>
+
+    <string name="base_request_url">https://listofnames.free.beeceptor.com</string>
+</resources>
